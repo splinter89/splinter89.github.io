@@ -102,7 +102,8 @@
     {% endif %}
 
     {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+        <a class="link" data-title="{{ site.email-name }} at {{ site.email-domain }}" href="#" data-name="{{ site.email-name }}" data-domain="{{ site.email-domain }}" data-tld="{{ site.email-tld }}"
+            onclick="window.location.href='mailto:'+this.dataset.name+'@'+this.dataset.domain+'.'+this.dataset.tld; return false;">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
