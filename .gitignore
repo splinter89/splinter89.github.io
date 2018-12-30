@@ -2,3 +2,7 @@
 _site
 .sass-cache
 Gemfile.lock
+
+assets/cv/*
+!assets/cv/anton_cherniavskyi_cv.tex
+!assets/cv/anton_cherniavskyi_cv.pdf
