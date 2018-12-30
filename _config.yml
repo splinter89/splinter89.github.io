@@ -1,9 +1,8 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Anton Cherniavskyi
+bio: Difficult takes a day, impossible takes a week
 
-# twitter summary info
-description: A blog about technology and stuff related
+description: A simple personal website, what else can I say
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,11 +12,10 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/cv/anton_cherniavskyi_cv.pdf
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://splinter89.github.io
 
 permalink: /:title/
 
@@ -34,38 +32,30 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: i.am.toxa
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: anton-cherniavskyi
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: splinter89
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: @.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    anton:
+        name: Anton Cherniavskyi
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
