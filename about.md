@@ -36,11 +36,11 @@ and also
 <h2>Projects</h2>
 
 <ul>
-    <li><a href="https://theses.lib.sfu.ca/4953/show">Expanders in Power Law Graphs</a> (pdf)&nbsp;&mdash; Master's thesis</li>
+    <li><a href="https://theses.lib.sfu.ca/4953/show">Expanders in Power Law Graphs</a> (pdf)&nbsp;&mdash; Master's thesis from SFU</li>
     <ul>
         <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">sources</a> (tex)</li>
-        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">images generator</a> (py)</li>
-        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">presentation</a> (pdf), <a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">presentation sources</a> (tex)</li>
+        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs/blob/master/img_generator.py">images generator</a> (py)</li>
+        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs/releases/download/presented/presentation.pdf">presentation</a> (pdf), <a href="https://github.com/splinter89/expanders-in-powerlaw-graphs/blob/presentation/presentation.tex">presentation sources</a> (tex)</li>
     </ul>
     <li><a href="https://github.com/splinter89/cmpt-726-fld">Fingerprint Liveness Detection</a> (py)&nbsp;&mdash; feature extraction via CNN-RFW, SVM and neural network models</li>
     <ul>
