@@ -4,42 +4,49 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, my name is Anton.</p>
-
 <p>
-    I love mathematics and programming. Who doesn't, right?
-    In my free time I enjoy music, reading, watching movies, NBA, and Formula 1.
+    Hi, my name is Anton.
+    I love mathematics and programming. Who doesn't?
+    In my free time I enjoy reading software documentation, watching movies, NBA, and Formula 1.
 </p>
 
-<p>Finally, I'm always looking for ways to extend the following lists.</p>
+<p>I am always looking for ways to extend the following lists.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-    <li>PHP (Laravel, PHPUnit/Codeception, Phing, Matomo, XHProf, ReactPHP/Ratchet)</li>
+    <li>PHP</li>
+    <ul>
+        <li>Laravel</li>
+        <li>PHPUnit, Codeception</li>
+        <li>Phing, Matomo, XHProf, ReactPHP/Ratchet</li>
+    </ul>
     <li>MySQL, MS SQL, Redis</li>
-    <li>JavaScript (jQuery, Google Maps, PhantomJS)</li>
-    <li>CSS (Sass, SCSS)</li>
+    <li>JavaScript&nbsp;&mdash; jQuery, Google Maps, PhantomJS</li>
+    <li>CSS&nbsp;&mdash; Sass, SCSS</li>
 </ul>
 
-and also some less relevant to my profession and old school stuff
+and also
 
 <ul class="skill-list">
-    <li>Qt, C++, Python (Keras), Java, MDX, HDL, R, Matlab, and LaTeX</li>
-    <li>Pascal, Fortran, Lisp, Asm</li>
+    <li>Python (Keras), Java, Qt, C++, Pascal, Asm, HDL</li>
+    <li>MDX, R, Matlab, and LaTeX</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-    <li><a href="https://theses.lib.sfu.ca/4953/show">Expanders in Power Law Graphs</a>&nbsp;&mdash; Master's thesis</li>
+    <li><a href="https://theses.lib.sfu.ca/4953/show">Expanders in Power Law Graphs</a> (pdf)&nbsp;&mdash; Master's thesis</li>
     <ul>
-        <li><a href="https://github.com/splinter89/expanders-thesis">sources (.tex)</a></li>
-        <li><a href="https://github.com/splinter89/expanders-thesis-img-generator">images generator (.py)</a></li>
+        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">sources</a> (tex)</li>
+        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">images generator</a> (py)</li>
+        <li><a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">presentation</a> (pdf), <a href="https://github.com/splinter89/expanders-in-powerlaw-graphs">presentation sources</a> (tex)</li>
     </ul>
-    <li><a href="https://github.com/splinter89/cmpt-726-fld">Fingerprint Liveness Detection</a>&nbsp;&mdash; feature extraction (CNN-RFW), SVM, neural networks</li>
+    <li><a href="https://github.com/splinter89/cmpt-726-fld">Fingerprint Liveness Detection</a> (py)&nbsp;&mdash; feature extraction via CNN-RFW, SVM and neural network models</li>
     <ul>
-        <li><a href="https://github.com/splinter89/cmpt-726-fld-quiz">Quiz: Can you beat our models?</a></li>
+        <li><a href="https://github.com/splinter89/cmpt-726-fld-quiz">Quiz: Can you beat our models?</a> (html)</li>
     </ul>
-    <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a>&nbsp;&mdash; master-slave and multi-master replication in MySQL</li>
+    <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master replication</li>
+    <li><a href="https://github.com/werwolf/ExLibris">ExLibris</a> (qt, mysql)&nbsp;&mdash; automated system for publishers, co-authored</li>
+    <li><em>s-compiler</em> (qt)&nbsp;&mdash; basic parts of a compiler (lexical, syntactic, and semantic analysis) for the subset of C++ language using LR(1) grammar</li>
 </ul>
