@@ -47,6 +47,6 @@ and also
         <li><a href="https://github.com/splinter89/cmpt-726-fld-quiz">Quiz: Can you beat our models?</a> (html)</li>
     </ul>
     <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master replication</li>
+    <li><a href="https://github.com/splinter89/scompiler">sCompiler</a> (qt)&nbsp;&mdash; basic parts of a compiler (lexical, syntactic, and semantic analysis) for the subset of C++ language using LR(1) grammar</li>
     <li><a href="https://github.com/werwolf/ExLibris">ExLibris</a> (qt, mysql)&nbsp;&mdash; automated system for publishers, co-authored</li>
-    <li><em>s-compiler</em> (qt)&nbsp;&mdash; basic parts of a compiler (lexical, syntactic, and semantic analysis) for the subset of C++ language using LR(1) grammar</li>
 </ul>
