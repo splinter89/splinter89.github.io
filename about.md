@@ -44,7 +44,7 @@ and also
     </ul>
     <li><a href="https://github.com/splinter89/cmpt-726-fld">Fingerprint Liveness Detection</a> (py)&nbsp;&mdash; feature extraction via CNN-RFW, SVM and neural network models</li>
     <ul>
-        <li><a href="https://splinter89.github.io/cmpt-726-fld/">Quiz: Can you beat our models?</a>, <a href="https://github.com/splinter89/cmpt-726-fld/tree/master/docs">quiz sources</a> (html)</li>
+        <li><a href="https://splinter89.github.io/cmpt-726-fld/">Quiz: Can you beat our models?</a>, <a href="https://github.com/splinter89/cmpt-726-fld/tree/gh-pages">quiz sources</a> (html)</li>
     </ul>
     <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master replication</li>
     <ul>
