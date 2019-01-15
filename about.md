@@ -46,7 +46,7 @@ and also
     <ul>
         <li><a href="https://splinter89.github.io/cmpt-726-fld/">Quiz: Can you beat our models?</a>, <a href="https://github.com/splinter89/cmpt-726-fld/tree/gh-pages">quiz sources</a> (html)</li>
     </ul>
-    <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master replication</li>
+    <li><a href="https://github.com/splinter89/cmpt-740-db-replication">Accommodation Booking System</a> (mysql)&nbsp;&mdash; master-slave and multi-master replication</li>
     <ul>
         <li><a href="https://splinter89.github.io/cmpt-740-db-replication/">static preview</a> (html)</li>
     </ul>

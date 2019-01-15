@@ -3,6 +3,10 @@ _site
 .sass-cache
 Gemfile.lock
 
+assets/cover_letter/*
+!assets/cover_letter/anton_cherniavskyi_cover_letter.tex
+!assets/cover_letter/anton_cherniavskyi_cover_letter.pdf
+
 assets/cv/*
 !assets/cv/anton_cherniavskyi_cv.tex
 !assets/cv/anton_cherniavskyi_cv.pdf
