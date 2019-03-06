@@ -6,8 +6,8 @@ layout: page
 
 <p>
     Hi, my name is Anton.
-    I love mathematics and programming. Who doesn't?
-    In my free time I enjoy reading software documentation, watching movies, NBA, and Formula 1.
+    I love mathematics and programming&nbsp;&mdash; both are great to keep your mind sharp.
+    In my free time I enjoy reading software documentation and regular books, watching NBA and Formula&nbsp;1.
 </p>
 
 <p>I am always looking for ways to extend the following lists.</p>
@@ -29,19 +29,19 @@ layout: page
 and also
 
 <ul class="skill-list">
-    <li>Python (Keras), Java, Qt, C++, Pascal, Asm, HDL</li>
-    <li>MDX, R, Matlab, LaTeX</li>
-    <li>REST, Scrum/Kanban</li>
+    <li>Python (Keras), Java, Qt, C++, Pascal, Asm, HDL, MDX</li>
+    <li>R, Matlab, LaTeX</li>
+    <li>REST, Scrum/Kanban, Git, FreeBSD, etc.</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-    <li><a target="_blank" href="https://github.com/splinter89/db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master database replication</li>
+    <li><a target="_blank" href="https://github.com/splinter89/db-replication">Accommodation Booking System</a> (php, mysql)&nbsp;&mdash; master-slave and multi-master database replication (PSR-7, PSR-11, PSR-15)</li>
     <li><a target="_blank" href="http://www.datatrans.ua/">www.datatrans.ua</a> (php, mysql)&nbsp;&mdash; glossary of truck terminology, built with Laravel and Sphinx Search, in Russian</li>
     <li><a target="_blank" href="https://github.com/splinter89/fingerprint-liveness-detection">Fingerprint Liveness Detection</a> (python)&nbsp;&mdash; feature extraction via CNN-RFW, classification using SVM and neural network models</li>
     <ul>
-        <li>quiz <a target="_blank" href="https://splinter89.github.io/fingerprint-liveness-detection/">&ldquo;Can you beat our models?&rdquo;</a> and <a target="_blank" href="https://github.com/splinter89/fingerprint-liveness-detection/tree/gh-pages">its sources</a> (html)</li>
+        <li>quiz <a target="_blank" href="https://splinter89.github.io/fingerprint-liveness-detection/">&ldquo;Can you beat our models?&rdquo;</a>, <a target="_blank" href="https://github.com/splinter89/fingerprint-liveness-detection/tree/gh-pages">quiz sources</a> (html)</li>
     </ul>
 </ul>
 
